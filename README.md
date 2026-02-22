@@ -1,45 +1,8 @@
-<html lang="en-US"><head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<meta name="generator" content="Jekyll v3.10.0">
-<meta property="og:title" content="bdabeedoo123-blip">
-<meta property="og:locale" content="en_US">
-<link rel="canonical" href="http://nomorebrainrots.dev/">
-<meta property="og:url" content="http://nomorebrainrots.dev/">
-<meta property="og:site_name" content="bdabeedoo123-blip">
-<meta property="og:type" content="website">
-<meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="bdabeedoo123-blip">
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"bdabeedoo123-blip","name":"bdabeedoo123-blip","url":"http://nomorebrainrots.dev/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=1b8199bb2d89ae0696568529c2a23bac5a47263d">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
 
 
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body class="dark-mode">
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="http://nomorebrainrots.dev/">bdabeedoo123-blip</a></h1>
-      
-
-      
-<p>&lt;!DOCTYPE html&gt;</p>
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
 <base href="https://cdn.jsdelivr.net/gh/gn-math/gn-math.github.io@main/">
 <link rel="icon" type="image/png" href="favicon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/Helloguysssssssssssssss/goodnight-math/refs/heads/main/favicon.png">
@@ -52,7 +15,7 @@ return 'Are you sure you want to leave? Any unsaved changes will be lost.';
 });
 </script>
 
-<script async="" src="https://fundingchoicesmessages.google.com/i/pub-5521219086088837?ers=1"></script><script>(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+<script async src="https://fundingchoicesmessages.google.com/i/pub-5521219086088837?ers=1"></script><script>(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
 <script src="https://cdn.jsdelivr.net/gh/gn-math/gn-math.github.io@main/gnmath.js"></script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -735,8 +698,8 @@ transform: translateY(-4px) scale(1.01);
 }
 }
 </style>
-
-
+</head>
+<body class="dark-mode">
 <header>
 <div class="header-content">
 <div class="logo">gn-math</div>
@@ -753,31 +716,36 @@ transform: translateY(-4px) scale(1.01);
 </div>
 </div>
 </header>
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-client="ca-pub-5521219086088837" data-ad-slot="5549138288" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-client="ca-pub-5521219086088837"
+data-ad-slot="5549138288"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 
 <main>
-<details id="featuredZonesWrapper">
-<summary id="allZonesSummary" style="font-size: 1.2rem; font-weight: bold; cursor: pointer;">Featured Zones (36)</summary>
-<div id="featuredZones" class="zone-container"><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/dc.png" alt="[!] SUGGEST GAMES .gg/D4c9VFYWyU" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/dc.png"><button>[!] SUGGEST GAMES .gg/D4c9VFYWyU</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/596-uu.png" alt="[!] COMMENTS" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/596-uu.png"><button>[!] COMMENTS</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/711.png" alt="Antonblast" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/711.png"><button>Antonblast</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/166.png" alt="Bad Parenting 1" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/166.png"><button>Bad Parenting 1</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/467.png" alt="Baldi's Basics Plus" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/467.png"><button>Baldi's Basics Plus</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/215.png" alt="Bendy and the Ink Machine" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/215.png"><button>Bendy and the Ink Machine</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/205.png" alt="Buckshot Roulette" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/205.png"><button>Buckshot Roulette</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/623.png" alt="Celeste" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/623.png"><button>Celeste</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/253.png" alt="Chat Bot (A.|.I)" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/253.png"><button>Chat Bot (A.|.I)</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/716.png" alt="Clover Pit" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/716.png"><button>Clover Pit</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/465.png" alt="Cuphead" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/465.png"><button>Cuphead</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/710.png" alt="Five Nights at Epstein's" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/710.png"><button>Five Nights at Epstein's</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/191.png" alt="Five Nights at Freddy's: Pizza Simulator" loading="lazy" class="lazy-zone-img"><button>Five Nights at Freddy's: Pizza Simulator</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/185.png" alt="Five Nights at Freddy's: Sister Location" loading="lazy" class="lazy-zone-img"><button>Five Nights at Freddy's: Sister Location</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/262.png" alt="Half Life" loading="lazy" class="lazy-zone-img"><button>Half Life</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/468.png" alt="Hollow Knight" loading="lazy" class="lazy-zone-img"><button>Hollow Knight</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/705.png" alt="Iron Lung" loading="lazy" class="lazy-zone-img"><button>Iron Lung</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/542.png" alt="Karlson" loading="lazy" class="lazy-zone-img"><button>Karlson</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/445.png" alt="Kindergarten" loading="lazy" class="lazy-zone-img"><button>Kindergarten</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/182.png" alt="Minecraft 1.12.2" loading="lazy" class="lazy-zone-img"><button>Minecraft 1.12.2</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/427.png" alt="OMORI" loading="lazy" class="lazy-zone-img"><button>OMORI</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/622.png" alt="Oneshot (LEGACY)" loading="lazy" class="lazy-zone-img"><button>Oneshot (LEGACY)</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/194-m.png" alt="People Playground" loading="lazy" class="lazy-zone-img"><button>People Playground</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/267.png" alt="Pizza Tower" loading="lazy" class="lazy-zone-img"><button>Pizza Tower</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/195.png" alt="R.E.P.O" loading="lazy" class="lazy-zone-img"><button>R.E.P.O</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/605.png" alt="Schoolboy Runaway" loading="lazy" class="lazy-zone-img"><button>Schoolboy Runaway</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/591.png" alt="Slime Rancher" loading="lazy" class="lazy-zone-img"><button>Slime Rancher</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/179.png" alt="Soundboard" loading="lazy" class="lazy-zone-img"><button>Soundboard</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/666.png" alt="Stick War: Legacy" loading="lazy" class="lazy-zone-img"><button>Stick War: Legacy</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/607.png" alt="Tattletail" loading="lazy" class="lazy-zone-img"><button>Tattletail</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/669.png" alt="Terraria" loading="lazy" class="lazy-zone-img"><button>Terraria</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/216.png" alt="That's Not My Neighbor" loading="lazy" class="lazy-zone-img"><button>That's Not My Neighbor</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/196.png" alt="ULTRAKILL" loading="lazy" class="lazy-zone-img"><button>ULTRAKILL</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/718.png" alt="Untitled Goose Game" loading="lazy" class="lazy-zone-img"><button>Untitled Goose Game</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/423.png" alt="WebFishing" loading="lazy" class="lazy-zone-img"><button>WebFishing</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/433.png" alt="Yume Nikki" loading="lazy" class="lazy-zone-img"><button>Yume Nikki</button></div></div>
+<details id="featuredZonesWrapper" open>
+<summary id="allZonesSummary" style="font-size: 1.2rem; font-weight: bold; cursor: pointer;">Featured Zones</summary>
+<div id="featuredZones" class="zone-container"></div>
 </details>
 <br><hr><br>
-<details id="allZonesWrapper" open="">
-<summary id="allSummary" style="font-size: 1.2rem; font-weight: bold; cursor: pointer;">All Zones (7)</summary>
-<div id="container"><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/25.png" alt="Basket Battle" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/25.png"><button>Basket Battle</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/285.png" alt="Basket Bros" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/285.png"><button>Basket Bros</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/66.png" alt="Basket Random" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/66.png"><button>Basket Random</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/28.png" alt="Basketball Frvr" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/28.png"><button>Basketball Frvr</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/272.png" alt="Basketball Stars" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/272.png"><button>Basketball Stars</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/79.png" alt="Cannon Basketball" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/79.png"><button>Cannon Basketball</button></div><div class="zone-item"><img data-src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/80.png" alt="Cannon Basketball 2" loading="lazy" class="" src="https://cdn.jsdelivr.net/gh/gn-math/covers@main/80.png"><button>Cannon Basketball 2</button></div></div>
+<details id="allZonesWrapper" open>
+<summary id="allSummary" style="font-size: 1.2rem; font-weight: bold; cursor: pointer;">All Zones</summary>
+<div id="container">Loading...</div>
 </details>
 </main>
 
 
-<div id="zoneViewer" style="display: none;">
+<div id="zoneViewer">
 <div class="zone-header">
 <div class="zone-title">
-<h2 id="zoneName">Basket Random</h2>
-<span id="zoneId" style="display: none;">66</span>
-<a id="zoneAuthor" href="https://play.google.com/store/apps/dev?id=9182049342574405049&amp;hl=en_US" target="_blank">by RHM Interactive OÜ</a>
+<h2 id="zoneName">zone</h2>
+<span id="zoneId" style="display: none;"></span>
+<a id="zoneAuthor" href="#" target="_blank">by Author</a>
 </div>
 <div class="zone-controls">
 <button onclick="fullscreenZone()">Fullscreen</button>
@@ -786,14 +754,14 @@ transform: translateY(-4px) scale(1.01);
 <button onclick="closeZone()">Close</button>
 </div>
 </div>
-
+<iframe id="zoneFrame"></iframe>
 </div>
 
 
 <div id="popupOverlay">
 <div class="popup">
 <div class="popup-header">
-<h3 id="popupTitle">Title<a class="anchorjs-link " href="#popupTitle" aria-label="Anchor" data-anchorjs-icon="" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; padding-left: 0.375em;"></a></h3>
+<h3 id="popupTitle">Title</h3>
 <button id="popupClose" onclick="closePopup()">×</button>
 </div>
 <div id="popupBody">
@@ -803,7 +771,12 @@ Content will be here
 </div>
 
 
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-client="ca-pub-5521219086088837" data-ad-slot="5549138288" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-client="ca-pub-5521219086088837"
+data-ad-slot="5549138288"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -1506,15 +1479,7 @@ HTMLCanvasElement.prototype.toDataURL = function (...args) {
 return "";
 };
 </script>
+</body>
+</html>
 
 
-
-
-
-      
-    </div><iframe name="googlefcPresent" style="width: 0px; height: 0px; border: medium; z-index: -1000; left: -1000px; top: -1000px; display: none;"></iframe>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  
-
-<iframe name="googlefcInactive" src="about:blank" style="display: none; width: 0px; height: 0px; border: medium; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcLoaded" src="about:blank" style="display: none; width: 0px; height: 0px; border: medium; z-index: -1000; left: -1000px; top: -1000px;"></iframe></body></html>
